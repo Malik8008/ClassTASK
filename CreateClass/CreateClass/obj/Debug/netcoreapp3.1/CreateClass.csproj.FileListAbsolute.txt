@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\CreateClass\CreateClass\bin\Debug\netcoreapp3.1\CreateClass.exe
+C:\Users\Admin\source\repos\CreateClass\CreateClass\bin\Debug\netcoreapp3.1\CreateClass.deps.json
+C:\Users\Admin\source\repos\CreateClass\CreateClass\bin\Debug\netcoreapp3.1\CreateClass.runtimeconfig.json
+C:\Users\Admin\source\repos\CreateClass\CreateClass\bin\Debug\netcoreapp3.1\CreateClass.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CreateClass\CreateClass\bin\Debug\netcoreapp3.1\CreateClass.dll
+C:\Users\Admin\source\repos\CreateClass\CreateClass\bin\Debug\netcoreapp3.1\CreateClass.pdb
+C:\Users\Admin\source\repos\CreateClass\CreateClass\obj\Debug\netcoreapp3.1\CreateClass.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CreateClass\CreateClass\obj\Debug\netcoreapp3.1\CreateClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CreateClass\CreateClass\obj\Debug\netcoreapp3.1\CreateClass.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CreateClass\CreateClass\obj\Debug\netcoreapp3.1\CreateClass.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CreateClass\CreateClass\obj\Debug\netcoreapp3.1\CreateClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CreateClass\CreateClass\obj\Debug\netcoreapp3.1\CreateClass.dll
+C:\Users\Admin\source\repos\CreateClass\CreateClass\obj\Debug\netcoreapp3.1\CreateClass.pdb
+C:\Users\Admin\source\repos\CreateClass\CreateClass\obj\Debug\netcoreapp3.1\CreateClass.genruntimeconfig.cache
